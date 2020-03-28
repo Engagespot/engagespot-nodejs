@@ -1,4 +1,4 @@
-# Engagespot Notifications
+# Engagespot NodeJS SDK
 
 [![npm version](https://img.shields.io/npm/v/axios.svg?style=flat-square)](https://www.npmjs.org/package/axios)
 [![build status](https://img.shields.io/travis/axios/axios/master.svg?style=flat-square)](https://travis-ci.org/axios/axios)
@@ -7,7 +7,7 @@
 Easiest way to implement user-specific web push notifications in nodejs.
 
 Engagespot helps you to add push notification functionality to your node web application. Before using this SDK, you need to create a free account at https://engagespot.co
-Add push notifications to your web app in less than 10 mins!
+Add push notifications to your NodeJS web app in less than 10 mins!
 
 ## Features
 
