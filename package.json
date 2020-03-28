@@ -23,18 +23,19 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Engagespot/engagespot-node.git"
+        "url": "git+https://github.com/Engagespot/engagespot-nodejs.git"
     },
-    "homepage": "https://github.com/Engagespot/engagespot-node#readme",
+    "homepage": "https://github.com/Engagespot/engagespot-nodejs#readme",
     "keywords": [
         "Engagespot",
         "Push",
         "Push Notifications",
         "Notifications"
+        "Node.js Notifications"
     ],
     "author": "Engagespot",
     "bugs": {
-        "url": "https://github.com/Engagespot/engagespot-node/issues"
+        "url": "https://github.com/Engagespot/engagespot-nodejs/issues"
     },
     "license": "ISC",
     "dependencies": {
