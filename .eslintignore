@@ -1,0 +1,6 @@
+node_modules
+**/__tests/
+coverage
+lib
+*.config.js
+example

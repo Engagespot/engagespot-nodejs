@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "outDir": "./lib",
+        "rootDir": "./src",
+        "strict": true,
+        "declaration": true,
+        "esModuleInterop": true,
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "forceConsistentCasingInFileNames": true
+    },
+    "exclude": ["node_modules", "lib", "__tests", "example"]
+}
